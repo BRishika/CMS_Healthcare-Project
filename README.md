@@ -20,6 +20,6 @@ CMS assigns a number to each US hospital on a range of 1 to 5, making it simpler
 
 1. Healthcare Capstone Project_Final.ipynb : The python file showing coding and data analysis
 2. Capstone_flowchart: Pdf file containing the coggle flowchart for the root cause analysis
-3. capstone_cms.pdf : The final presentation of how project is done
+3. capstone_cms_final.pdf : The final presentation of how project is done
 4. zip file containing all the datasets
 5. Capstone_video: video explaining the entire capstone project 
